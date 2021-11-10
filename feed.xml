@@ -3,7 +3,7 @@
     <title>Marko Todorovic</title>
     <link href="https://PKtch.github.io/marko/feed.xml" rel="self" />
     <link href="https://PKtch.github.io/marko" />
-    <updated>2021-11-10T00:58:21+01:00</updated>
+    <updated>2021-11-10T01:04:29+01:00</updated>
     <author>
         <name>Marko T</name>
     </author>
@@ -50,28 +50,6 @@
             <![CDATA[
                     <img src="https://PKtch.github.io/marko/media/posts/1/1700-01-BAR-e-02_Bluehour_R01.jpg" alt="" />
                 [{"id":1555941466744,"type":"publii-paragraph","content":"Boligprosjekt med 52 leiligheter, ombygging av Gamle Betanien til leiligheter&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1636495619752,"type":"publii-image","content":{"image":"https://PKtch.github.io/marko/media/posts/1/1700-01-BAR-e-01_Streetview_R01.jpg","imageHeight":5000,"imageWidth":5000,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1636495648968,"type":"publii-image","content":{"image":"https://PKtch.github.io/marko/media/posts/1/1700-01-BAR-e-05_Terrace_R01.jpg","imageHeight":5000,"imageWidth":3334,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1636495662150,"type":"publii-image","content":{"image":"https://PKtch.github.io/marko/media/posts/1/1700-01-BAR-e-04_Aerial_R02.jpg","imageHeight":3740,"imageWidth":5000,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Høgatun , Askøy </title>
-        <author>
-            <name>Marko T</name>
-        </author>
-        <link href="https://PKtch.github.io/marko/hogatun-askoy.html"/>
-        <id>https://PKtch.github.io/marko/hogatun-askoy.html</id>
-
-        <updated>2021-11-09T23:13:48+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://PKtch.github.io/marko/media/posts/2/03.jpg" alt="" />
-                    [{"id":1555941466744,"type":"publii-paragraph","content":"Boligprosjekt med 103 leiligheter, \n Skisseprosjekt/Forprosjekt/&nbsp; ","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1636495372228,"type":"publii-gallery","content":{"images":[{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/04.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/04-thumbnail.jpg","height":270,"width":480,"dimensions":"2311x1300","alt":"","caption":""},{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/02.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/02-thumbnail.jpg","height":270,"width":480,"dimensions":"2310x1300","alt":"","caption":""},{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/01.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/01-thumbnail.jpg","height":270,"width":480,"dimensions":"2000x1125","alt":"","caption":""}]},"config":{"imageAlign":"center","columns":1,"advanced":{"cssClasses":"","id":""}}}]
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://PKtch.github.io/marko/media/posts/2/03.jpg" alt="" />
-                [{"id":1555941466744,"type":"publii-paragraph","content":"Boligprosjekt med 103 leiligheter, \n<br>Skisseprosjekt/Forprosjekt/&nbsp;<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1636495372228,"type":"publii-gallery","content":{"images":[{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/04.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/04-thumbnail.jpg","height":270,"width":480,"dimensions":"2311x1300","alt":"","caption":""},{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/02.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/02-thumbnail.jpg","height":270,"width":480,"dimensions":"2310x1300","alt":"","caption":""},{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/01.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/01-thumbnail.jpg","height":270,"width":480,"dimensions":"2000x1125","alt":"","caption":""}]},"config":{"imageAlign":"center","columns":1,"advanced":{"cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
@@ -182,6 +160,28 @@
             <![CDATA[
                     <img src="https://PKtch.github.io/marko/media/posts/8/Nordgreaterst.jpg" alt="" />
                 [{"id":1555941466744,"type":"publii-paragraph","content":"10 rekkehus&nbsp;","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1636498322566,"type":"publii-image","content":{"image":"https://PKtch.github.io/marko/media/posts/8/S-Kuang-vest.jpg","imageHeight":2250,"imageWidth":4000,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1636498334151,"type":"publii-image","content":{"image":"https://PKtch.github.io/marko/media/posts/8/Nordvest-oversikt.jpg","imageHeight":2665,"imageWidth":4000,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}},{"id":1636498348442,"type":"publii-image","content":{"image":"https://PKtch.github.io/marko/media/posts/8/Takterrasse.jpg","imageHeight":2250,"imageWidth":4000,"alt":"","caption":""},"config":{"imageAlign":"center","link":{"url":"","noFollow":false,"targetBlank":false,"sponsored":false,"ugc":false},"advanced":{"cssClasses":"","id":""}}}]
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Høgatun , Askøy </title>
+        <author>
+            <name>Marko T</name>
+        </author>
+        <link href="https://PKtch.github.io/marko/hogatun-askoy.html"/>
+        <id>https://PKtch.github.io/marko/hogatun-askoy.html</id>
+
+        <updated>2021-11-10T01:04:22+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://PKtch.github.io/marko/media/posts/2/03.jpg" alt="" />
+                    [{"id":1555941466744,"type":"publii-paragraph","content":"Boligprosjekt med 103 leiligheter, \n Skisseprosjekt/Forprosjekt/&nbsp; ","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1636495372228,"type":"publii-gallery","content":{"images":[{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/04.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/04-thumbnail.jpg","height":270,"width":480,"dimensions":"2311x1300","alt":"","caption":""},{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/02.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/02-thumbnail.jpg","height":270,"width":480,"dimensions":"2310x1300","alt":"","caption":""},{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/01.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/01-thumbnail.jpg","height":270,"width":480,"dimensions":"2000x1125","alt":"","caption":""}]},"config":{"imageAlign":"center","columns":1,"advanced":{"cssClasses":"","id":""}}}]
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://PKtch.github.io/marko/media/posts/2/03.jpg" alt="" />
+                [{"id":1555941466744,"type":"publii-paragraph","content":"Boligprosjekt med 103 leiligheter, \n<br>Skisseprosjekt/Forprosjekt/&nbsp;<br>","config":{"textAlign":"left","advanced":{"style":"","cssClasses":"","id":""}}},{"id":1636495372228,"type":"publii-gallery","content":{"images":[{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/04.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/04-thumbnail.jpg","height":270,"width":480,"dimensions":"2311x1300","alt":"","caption":""},{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/02.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/02-thumbnail.jpg","height":270,"width":480,"dimensions":"2310x1300","alt":"","caption":""},{"src":"https://PKtch.github.io/marko/media/posts/2/gallery/01.jpg","thumbnailSrc":"https://PKtch.github.io/marko/media/posts/2/gallery/01-thumbnail.jpg","height":270,"width":480,"dimensions":"2000x1125","alt":"","caption":""}]},"config":{"imageAlign":"center","columns":1,"advanced":{"cssClasses":"","id":""}}}]
             ]]>
         </content>
     </entry>
